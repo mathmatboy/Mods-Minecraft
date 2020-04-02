@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.DataInput"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="ca.mathmatboy.axialcraft.GETInfomation.GetInformation"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.GuiChat"/>
+<fullyQualifiedTypeName name="ca.mathmatboy.axialcraft.bouton.boutonhome"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.client.FMLClientHandler"/>
+<fullyQualifiedTypeName name="net.minecraft.client.renderer.InventoryEffectRenderer"/>
+<fullyQualifiedTypeName name="ca.mathmatboy.axialcraft.common.axialcraftMain"/>
+<fullyQualifiedTypeName name="ca.mathmatboy.axialcraft.bouton.boutonAdmin"/>
+<fullyQualifiedTypeName name="ca.mathmatboy.axialcraft.GUI.GuiAdmin"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.GuiScreen"/>
+<fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.inventory.GuiContainerCreative"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.GuiButton"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.FontRenderer"/>
+</qualifiedTypeNameHistroy>
